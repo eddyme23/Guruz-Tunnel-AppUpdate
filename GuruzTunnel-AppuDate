@@ -1,7 +1,7 @@
 {
-    "versionCode":9,
-    "versionName":"9.0",
+    "versionCode":16,
+    "versionName":"16.0",
     "contentText":"New version is available on Google Play Store",
-    "minSupport":23,
+    "minSupport":24,
     "url":"https://play.google.com/store/apps/details?id=com.guruz.tunnel"
 }
